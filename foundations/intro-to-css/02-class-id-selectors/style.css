@@ -1,1 +1,31 @@
 /* Add CSS Styling */
+
+/* untuk p */
+p {
+  background-color: pink;
+}
+
+.teks{
+  font-size: 32px;
+}
+
+.teks.dua{
+  font-size: 48px;
+}
+
+.teks.satu {
+  font-weight: bold;
+}
+
+/* untuk div */
+#pertama{
+  color: blue;
+  font-size: 48px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#kedua{
+  background-color: rgb(70, 210, 0);
+  font-size: 38px;
+  font-weight: bold;
+}
